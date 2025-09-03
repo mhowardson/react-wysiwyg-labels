@@ -110,3 +110,6 @@ docs/.vitepress/cache
 
 # Jest cache
 .jest
+
+# Claude Code configuration
+.claude/
