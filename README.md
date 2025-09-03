@@ -325,6 +325,8 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 ## 🗺️ Roadmap
 
 - [ ] **Advanced Shapes** - Polygons, curved lines
+- [ ] **Image Over/Underlay** - Background and foreground image layers
+- [ ] **Image Layers** - Multi-layer image composition and z-index management
 - [ ] **Print Preview** - Actual size preview
 - [ ] **Batch Processing** - Multiple labels at once
 - [ ] **Plugin System** - Custom element types
